@@ -1,3 +1,4 @@
+
 import { Form, Input, Button, Checkbox } from 'antd';
 //import { useNavigate } from "react-router-dom";
 
@@ -46,7 +47,7 @@ const LoginComponent = () => {
 
             <Form.Item wrapperCol={{ offset: 8, span: 16 }}>
                 <Button type="primary" htmlType="submit">
-                    Login with github
+                    jjjjjjj
                 </Button>
             </Form.Item>
         </Form>
